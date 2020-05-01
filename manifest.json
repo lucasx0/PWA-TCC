@@ -3,13 +3,13 @@
 	"lang" : "pt-BR",
 	"name" : "Localiza Babá!",
 	"scope" : "/",
-	"display" : "browser",
-	"start_url" : "https://localizababa.herokuapp.com/",
+	"display" : "standalone",
+	"start_url" : "index.html",
 	"short_name" : "Localiza Babá!",
-	"theme_color" : "transparent",
-	"description" : "Aplicativo para localizar uma babá",
+	"theme_color" : "#4D5360",
+	"description" : "localizababa",
 	"orientation" : "any",
-	"background_color" : "transparent",
+	"background_color" : "#31506F",
 	"related_applications" : [],
 	"prefer_related_applications" : false,
 	"icons" : [
@@ -17,43 +17,8 @@
 			"src": "https://localizababa.herokuapp.com/favicon.ico",
 			"sizes": "18x18",
 			"type": "image/ico"
-		  },
-		  {
-			"src": "favicon.ico",
-			"sizes": "144x144",
-			"type": "image/ico"
-		  },
-		  {
-			"src": "favicon.ico",
-			"sizes": "152x152",
-			"type": "image/ico"
-		  },
-		  {
-			"src": "favicon.ico",
-			"sizes": "167x167",
-			"type": "image/ico"
-		  },
-		  {
-			"src": "favicon.ico",
-			"sizes": "180x180",
-			"type": "image/ico"
-		  },
-		  {
-			"src": "favicon.ico",
-			"sizes": "192x192",
-			"type": "image/ico"
-		  },
-		  {
-			"src": "favicon.ico",
-			"sizes": "256x256",
-			"type": "image/ico"
-		  },
-		  {
-			"src": "favicon.ico",
-			"sizes": "512x512",
-			"type": "image/ico"
-		  
 		}
+		 
 	],
 	"url" : "https://localizababa.herokuapp.com/",
 	"generated" : "true"
